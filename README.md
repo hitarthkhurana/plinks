@@ -1,3 +1,10 @@
+Smart Contract on Asset Hub - 0x1CdaB5E4Ed70c52B73080CDA83c943790f2eDB95
+
+https://blockscout-asset-hub.parity-chains-scw.parity.io/address/0x1CdaB5E4Ed70c52B73080CDA83c943790f2eDB95?tab=txs
+
+![image](https://github.com/user-attachments/assets/20664e20-2bdd-4aef-9b00-a3616935c452)
+
+
 # Plinks - 1-Click Payment Links for Polkadot Asset Hub
 
 Plinks is a web application that allows users to create shareable payment links for Polkadot Asset Hub tokens. Similar to PayPal.me or Venmo links, Plinks makes it easy to request and receive payments in DOT and other supported tokens.
