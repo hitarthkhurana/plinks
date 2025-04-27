@@ -1,3 +1,5 @@
+https://www.tella.tv/video/polkadot-payment-links-made-easy-6273
+
 Smart Contract on Asset Hub - 0x1CdaB5E4Ed70c52B73080CDA83c943790f2eDB95
 
 https://blockscout-asset-hub.parity-chains-scw.parity.io/address/0x1CdaB5E4Ed70c52B73080CDA83c943790f2eDB95?tab=txs
