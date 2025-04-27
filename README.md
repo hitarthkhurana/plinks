@@ -15,7 +15,7 @@ This project was created for the EasyA Harvard Hackathon. Plinks simplifies the 
 
 ### Key Features
 
-- Create payment links with specified recipient address, amount, asset type (DOT/USDT/USDC), and optional memo
+- Create payment links with specified recipient address, amount, asset type (DOT/WND), and optional memo
 - Share links via email, text, or social media
 - One-click payments - recipients connect their MetaMask wallet and complete the transaction instantly
 - Blockchain tracking of payment requests and completions via smart contract
@@ -87,6 +87,7 @@ The Plinks contract tracks payment requests and completions. The contract is loc
 
 ## Future Enhancements
 
+- Solana Blinks like Twitter injection of PLINKS
 - QR code generation for payment links
 - Transaction history for users
 - Support for additional tokens
